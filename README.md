@@ -1,5 +1,5 @@
 # Clock-System-
-Digital Clock System 
+
 from tkinter import*
 import time
 root=Tk()
